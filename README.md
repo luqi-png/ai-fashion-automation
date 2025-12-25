@@ -1,17 +1,29 @@
-# ai-fashion-automation
+# AI-Powered Automated Applications for the Fashion Industry
 
-The fashion e-commerce industry relies heavily on manual processes for product catalog management, trend analysis, and customer engagement. Tasks such as image tagging, product description writing, and trend forecasting are time-consuming, inconsistent, and not scalable. This thesis proposes an AI-powered automated system that leverages computer vision, natural language processing, and machine learning to streamline these processes while delivering personalized user experiences.
+## Thesis Overview
+This project focuses on designing and developing an AI-powered system to automate
+fashion e-commerce processes such as product tagging, description generation,
+trend prediction, and personalized customer interaction.
 
+## Problem Statement
+Manual product catalog management in the fashion industry is time-consuming,
+inconsistent, and not scalable. This project aims to solve these issues by
+leveraging computer vision, natural language processing, and machine learning.
 
-Objectives
-By the end of this thesis, the system will:
+## Objectives
+- Automatic fashion image tagging
+- Product description generation
+- Fashion trend analysis and prediction
+- Personalized styling recommendations via chatbot
+- Reduction of manual workload for fashion brands
 
-1- Automatically generate product tags from fashion images.
+## Target Users
+- Primary: Fashion e-commerce brands
+- Secondary: Online shoppers
 
-2- Generate natural-language product descriptions.
+## Dataset
+- DeepFashion dataset
+- Supplementary synthetic data
 
-3- Identify and predict fashion trends using data-driven analysis.
-
-4- Provide a chatbot-based personalized styling and product discovery experience.
-
-5- Demonstrate efficiency improvements over manual catalog management.
+## Project Milestones
+- Milestone 1: Research & System Design
