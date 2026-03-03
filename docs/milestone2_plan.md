@@ -26,13 +26,11 @@
 | `data/test` | Test split (15% of images per class) |
 | `models/resnet18_deepfashion.pth` | Baseline ResNet-18 model weights *(saved after full training run)* |
 
-## 🔜 Next Steps
+## Next Steps
 
 - Run full training on complete dataset (10 epochs)
 - Evaluate model on test set (accuracy, top-5 accuracy)
 - Document results and model architecture in thesis
 ## TODO
-- Implement the core algorithm or model
 - Integrate backend components and ensure basic functionality
-- Start dataset collection and preprocessing
-- Conduct preliminary tests and document architecture
+
