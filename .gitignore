@@ -1,0 +1,10 @@
+data/img_highres/
+data/Anno_coarse/
+data/Anno_fine/
+data/Eval/
+models/*.pth
+scripts/__pycache__/
+scripts/*.rar
+docs/*.zip
+docs/~$*
+*.pyc
