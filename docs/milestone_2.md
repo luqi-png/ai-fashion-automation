@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 Experimental Results Summary
+##  Experimental Results Summary
 
 | Run | Model | Setup | Best Val Acc | Notes |
 |-----|-------|-------|-------------|-------|
