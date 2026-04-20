@@ -1,6 +1,6 @@
 # Milestone 2 — Progress Report
 
-## ✅ Completed Tasks
+##  Completed Tasks
 
 ### Dataset & Preprocessing
 - Set up project repository and folder structure on GitHub
@@ -43,7 +43,7 @@
 
 ---
 
-## 📦 Deliverables
+##  Deliverables
 
 | File | Description |
 |------|-------------|
@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 Experimental Results Summary
+##  Experimental Results Summary
 
 | Run | Model | Setup | Best Val Acc | Notes |
 |-----|-------|-------|-------------|-------|
@@ -73,7 +73,7 @@
 
 ---
 
-## 🔜 Next Steps
+##  Next Steps
 
 - Build Flask frontend — image upload → category + tags + description displayed in browser
 - Write thesis methodology chapter
@@ -81,7 +81,7 @@
 
 ---
 
-## 📝 TODO
+##  TODO
 
 - [ ] Flask web frontend
 - [ ] Thesis methodology write-up
